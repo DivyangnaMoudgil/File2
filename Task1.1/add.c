@@ -7,4 +7,5 @@ b=4;
 c=8;
 d=6;
 sum=a+b+c+d;
+printf("The sum is: %d",sum);
 }
